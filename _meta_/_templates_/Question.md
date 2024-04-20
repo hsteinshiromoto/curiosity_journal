@@ -1,20 +1,26 @@
-> [!INFO]
-> Let’s write a question together − here are some suggestions to get you started 
-> - Visit factoid aggregators online − is there more to the story?
-> - What is something that bothers you? Learn why it exists and if there are any solution
-> - Pick a word in the dictionary and trace back its etymology
->  
-> You can set yourself up for success by considering the following categories
-> 1. I believe that this question has an answer i can find with my current resources, ability, and time
-> 2. I am already somewhat familiar with the domain of this question.
-> 3. I have an idea of where to start.
-> 4. I will develop a skill i want by pursuing this question.
-> 5. I think answering this question will help me better understand my world and the people around me.
-> 
-> It is okay if any of the above fail to apply to your question, just keep in mind that the question can be a bit tougher to answer.
-> Just remember: don’t be too hard on yourself - answer questions should lead to excitement and interest... not burnout.
-
 ## Question
+
+Let’s write a question together − here are some suggestions to get you started 
+
+ > [!todo] Visit factoid aggregators online
+> Is there more to the story?
+
+> [!question] What is something that bothers you?
+> Learn why it exists and if there are any solution
+
+> [!tip]
+> Pick a word in the dictionary and trace back its etymology
+
+You can set yourself up for success by considering the following categories:
+ 1. I believe that this question has an answer i can find with my current resources, ability, and time
+ 2. I am already somewhat familiar with the domain of this question.
+ 3. I have an idea of where to start.
+ 4. I will develop a skill i want by pursuing this question.
+ 5. I think answering this question will help me better understand my world and the people around me.
+
+It is okay if any of the above fail to apply to your question, just keep in mind that the question can be a bit tougher to answer.
+
+Just remember: don’t be too hard on yourself - answer questions should lead to excitement and interest... not burnout.
 
 ### Question 1
 
